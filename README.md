@@ -1,0 +1,2 @@
+# mypoles
+Poles with junctions
